@@ -1,9 +1,9 @@
 {
   "name": "login-registration-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "login-registration-api.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node login-registration-api.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
