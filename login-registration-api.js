@@ -14,9 +14,9 @@ app.use(bodyParser.json());
 // MySQL Connection
 const db = mysql.createConnection({
   host: 'sql12.freesqldatabase.com',
-  user: 'sql12759762',       // Your MySQL username
-  password: 'dlhYR8J2YS',       // Your MySQL password
-  database: 'sql12759762', // Your database name
+  user: 'sql12764198',       // Your MySQL username
+  password: 'Rf92vnzYhR',       // Your MySQL password
+  database: 'sql12764198', // Your database name
 });
 
 db.connect((err) => {
